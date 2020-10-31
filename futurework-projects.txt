@@ -1,0 +1,10 @@
+Copyright 2019-20 Syed Awase Khirni Elain Technologies Inc. Canada. 
+awasekhirni@gmail.com 
+
+1. GaurdSpace - Blockchain based connected body camera service provider for real-time monitoring and protection. With Annual Subscription of just 30$
+2. Photokataliq- Fuel Cell using sea water. Sunlight when illuminates the photocatalyst, it absorbs photos and initiates chemical reaction to product H2O2
+3. autonomous submerged robot vehicle- for mapping sea surface and aquatic life in- realtime and cleaning the oceans by removing plastics/microplastics. As of 2010, there is around 8 million metric tons of plastic in oceans.
+4. Scliq Autonomy - Autonomous Prober to capture realtime environmental and operational parameters for crop/aquatic life cycle intelligence to improve crop productivity. 
+5. 
+
+
