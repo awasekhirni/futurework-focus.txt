@@ -5,6 +5,6 @@ awasekhirni@gmail.com
 2. Photokataliq- Fuel Cell using sea water. Sunlight when illuminates the photocatalyst, it absorbs photos and initiates chemical reaction to product H2O2
 3. autonomous submerged robot vehicle- for mapping sea surface and aquatic life in- realtime and cleaning the oceans by removing plastics/microplastics. As of 2010, there is around 8 million metric tons of plastic in oceans.
 4. Scliq Autonomy - Autonomous Prober to capture realtime environmental and operational parameters for crop/aquatic life cycle intelligence to improve crop productivity. 
-5. 
+5. Algoblocks - Visual Algorithm Implementation platform for integration with multiple platforms like twitter, google, facebook, quora, pinterest, etc..
 
 
